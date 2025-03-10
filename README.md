@@ -2,7 +2,7 @@
 - 🏫 Currently persuing UG in AIML(1st year)
 - ⭐International speaker | Programmer | Web developer | Stoic men 
 - 👀 I’m interested in Coding,public speaking and most of the technical skills
-- 🌱 I’m currently learning on how to use Git hub and google cloud
+- 🌱 I’m currently learning Pareto Principle (80-20 rule) and experimenting them
 - 💞️ I’m looking to collaborate on NA
 - 📫 How to reach me lawliet.oradoraudaz@gmail.com
 - 😄 Pronouns: He/Him
