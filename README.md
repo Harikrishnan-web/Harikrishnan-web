@@ -3,6 +3,7 @@
 - ⭐International speaker | Programmer | Web developer | Stoic men 
 - 👀 I’m interested in Coding,public speaking and most of the technical skills
 - 🌱 I’m Practicing Stoicism
+- 🌃Fan of Robert Downey jr
 - 📫 How to reach me lawliet.oradoraudaz@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Stoic men
