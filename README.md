@@ -1,13 +1,14 @@
 - 👋 Hi, I’m Harikrishnan.U
 - 🏫 Currently persuing UG in AIML(1st year)
 - ⭐International speaker | Programmer | Web developer | Stoic men 
-- 👀 I’m interested in Coding,public speaking and most of the technical skills
+- 👀 I’m interested in Coding, public speaking, and most technical skills
 - 🌱 I’m Practicing Stoicism
-- 🌃Fan of Robert Downey jr
-- 📫 How to reach me lawliet.oradoraudaz@gmail.com
+- 🌃Fan of Robert Downey Jr
+- 📫 How to reach me: lawliet.oradoraudaz@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Stoic men
 - 👨‍💻 Google devloper profile: [Link](https://developers.google.com/profile/u/112917240248924734076)
+- 🥇Achivements and participation certificates: [link](https://github.com/Harikrishnan-web/Achivements-and-participation-certificate)
 - 🔗 Skill Rack: [link](https://www.skillrack.com/faces/resume.xhtml?id=520647&key=2dc50ef050e30f2a5bcebd23ff7be262101165b1)
 - 🏢 Linkedin : [Link](https://www.linkedin.com/in/hari-krishnan-u-16649b317/)
 - 😏 Instagram : [Link](https://www.instagram.com/l.lawliet_ryuga/)
