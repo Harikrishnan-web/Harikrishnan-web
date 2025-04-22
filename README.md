@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Stoic men
 - 👨‍💻 Google devloper profile: [Link](https://developers.google.com/profile/u/112917240248924734076)
-- 🥇Achivements and participation certificates: [link](https://github.com/Harikrishnan-web/Achivements-and-participation-certificate)
+- 🥇 My Ted talk: [link](https://www.youtube.com/watch?v=Kgb7yvq7MnU)
 - 🔗 Skill Rack: [link](https://www.skillrack.com/faces/resume.xhtml?id=520647&key=2dc50ef050e30f2a5bcebd23ff7be262101165b1)
 - 🏢 Linkedin : [Link](https://www.linkedin.com/in/hari-krishnan-u-16649b317/)
 - 😏 Instagram : [Link](https://www.instagram.com/l.lawliet_ryuga/)
