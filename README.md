@@ -3,10 +3,9 @@
 - ⭐International speaker | Programmer | Web developer | Stoic men 
 - 👀 I’m interested in Coding, public speaking, and most technical skills
 - 🌱 I’m Practicing Stoicism
-- 🌃Fan of Robert Downey Jr
 - 📫 How to reach me: lawliet.oradoraudaz@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Stoic men
+- ⚡ Fun fact: Stoic men, Fan of Robert Downey Jr
 - 👨‍💻 Google devloper profile: [Link](https://developers.google.com/profile/u/112917240248924734076)
 - 🥇 My Ted talk: [link](https://www.youtube.com/watch?v=Kgb7yvq7MnU)
 - 🔗 Skill Rack: [link](https://www.skillrack.com/faces/resume.xhtml?id=520647&key=2dc50ef050e30f2a5bcebd23ff7be262101165b1)
