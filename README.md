@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Harikrishnan.U
 - 🏫 Currently persuing UG in AIML(1st year)
-- ⭐International speaker | Programmer | Web developer | Stoic men 
+- ⭐International speaker | Programmer | Web developer | Stoic man 
 - 👀 I’m interested in Coding, public speaking, and most technical skills
 - 🌱 I’m Practicing Stoicism
 - 📫 How to reach me: lawliet.oradoraudaz@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Stoic men, Fan of Robert Downey Jr
+- ⚡ Fun fact: Stoic men, fan of Robert Downey Jr
 - 👨‍💻 [Google devloper profile](https://developers.google.com/profile/u/112917240248924734076)
 - 🥇 [My Ted talk](https://www.youtube.com/watch?v=Kgb7yvq7MnU)
 - 🔗 [Skill Rack](https://www.skillrack.com/faces/resume.xhtml?id=520647&key=2dc50ef050e30f2a5bcebd23ff7be262101165b1)
