@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Harikrishnan.U
-- 🏫 Currently persuing UG in AIML(1st year)
-- ⭐International speaker | Programmer | Web developer | Stoic man 
+- 🏫 Currently persuing UG in AIML(2nd year)
+- ⭐Passionate Public speaker | GitHub project creator | loves to experiment and try new things | Programmer | Stoic man 
 - 👀 I’m interested in Coding, public speaking, and most technical skills
-- 🌱 I’m Practicing Stoicism, Blockchain
+- 🌱 I’m Practicing Stoicism
 - 📫 How to reach me: lawliet.oradoraudaz@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Stoic men, fan of Robert Downey Jr, Mark Zuckerberg
