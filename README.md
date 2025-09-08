@@ -2,7 +2,7 @@
 - 🏫 Currently persuing UG in AIML(2nd year)
 - ⭐ Passionate Public speaker | GitHub project creator | loves to experiment and try new things | Programmer | Stoic man 
 - 👀 I’m interested in Coding, public speaking, and most technical skills
-- 🌱 I’m Practicing Stoicism
+- 🌱 I’m Practicing to type faster
 - 📫 How to reach me: lawliet.oradoraudaz@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Stoic men, fan of Robert Downey Jr, Mark Zuckerberg
