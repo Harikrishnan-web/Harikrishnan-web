@@ -9,8 +9,3 @@
 - 📓 I also Use Github to Upload Notes of topics and subjects that I am learning
 - 🥇 [My Ted talk](https://www.youtube.com/watch?v=Kgb7yvq7MnU)
 - 🏢 [Linkedin](https://www.linkedin.com/in/hari-krishnan-u-16649b317/)
-
-<!---
-Harikrishnan-web/Harikrishnan-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
