@@ -9,3 +9,4 @@
 - 📓 I also Use Github to Upload Notes of topics and subjects that I am learning
 - 🥇 [My Ted talk](https://www.youtube.com/watch?v=Kgb7yvq7MnU)
 - 🏢 [Linkedin](https://www.linkedin.com/in/hari-krishnan-u-16649b317/)
+- 📖 [Goodreads](https://www.goodreads.com/user/show/197965425-lawliet)
