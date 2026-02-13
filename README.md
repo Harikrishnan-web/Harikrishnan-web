@@ -6,7 +6,11 @@
 - 📫 How to reach me: lawliet.oradoraudaz@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Stoic men, fan of Robert Downey Jr, Mark Zuckerberg
-- 📓 I also Use Github to just share my knowledge 
-- 🥇 [My Ted talk](https://www.youtube.com/watch?v=Kgb7yvq7MnU)
+- 📓 I also Use Github to just share my knowledge
+
+# My key achivements:
+- 🥇 [Spoke on Ted ed](https://www.youtube.com/watch?v=Kgb7yvq7MnU)
+---
+# Link tree
 - 🏢 [Linkedin](https://www.linkedin.com/in/hari-krishnan-u-16649b317/)
 - 📖 [Goodreads](https://www.goodreads.com/user/show/197965425-lawliet)
