@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harikrishnan.U
 - 🏫 Currently persuing UG in AIML(2nd year)
-- ⭐ Public speaker| Bibliophilic | GitHub project creator | loves to experiment and try new things | Programmer | Stoic man 
+- ⭐ Public speaker | Bibliophilic | GitHub project creator | loves to experiment and try new things | Programmer | Stoic man 
 - 👀 I’m interested in Coding, public speaking, and most technical skills
 - 🌱 I’m Learning Psychology
 - 📫 How to reach me: lawliet.oradoraudaz@gmail.com
