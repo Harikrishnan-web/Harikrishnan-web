@@ -1,7 +1,7 @@
 ### About me
 - 👋 Hi, I’m Harikrishnan.U
 - 🏫 Currently persuing UG in AIML(2nd year)
-- ⭐ Public speaker | Bibliophilic | GitHub project creator | loves to experiment and try new things | Programmer | Stoic man 
+- ⭐ Public speaker | Bibliophilic | GitHub project creator | loves to experiment and try new things | Programmer | Stoic man | Minimalist
 - 👀 I’m interested in Coding, public speaking, and most technical skills
 - 🌱 I’m Learning AI
 - 📫 How to reach me: harikrishnan200665@gmail.com
