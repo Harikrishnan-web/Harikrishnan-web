@@ -11,7 +11,3 @@
 ---
 ### My key achivements:
 - 🥇 [Spoke on Ted ed](https://www.youtube.com/watch?v=Kgb7yvq7MnU)
----
-### Link tree
-- 🏢 [Linkedin](https://www.linkedin.com/in/hari-krishnan-u-16649b317/)
-- 📖 [Goodreads](https://www.goodreads.com/user/show/197965425-lawliet)
