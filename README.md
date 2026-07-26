@@ -9,5 +9,6 @@
 - ⚡ Fun fact: Stoic men, fan of Robert Downey Jr, Mark Zuckerberg
 - 📓 I also Use Github to just share my knowledge
 ---
-### My key achivements:
-- 🥇 [Spoke on Ted ed](https://www.youtube.com/watch?v=Kgb7yvq7MnU)
+### Link Tree:
+- 🥇 [My Ted ed talk](https://www.youtube.com/watch?v=Kgb7yvq7MnU)
+- 📖 [GOODREADS](https://www.goodreads.com/harikrishnan200665)
