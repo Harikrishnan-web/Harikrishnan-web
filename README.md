@@ -12,7 +12,7 @@
 ### Link Tree:
 - 🥇 [My Ted ed talk](https://www.youtube.com/watch?v=Kgb7yvq7MnU)
 - 📖 [GOODREADS](https://www.goodreads.com/harikrishnan200665)
-- 🏫 [Certificates](https://github.com/Harikrishnan-web/Harikrishnan-web/tree/main/certificates
+- 🏫 [Certificates](https://github.com/Harikrishnan-web/Harikrishnan-web/tree/main/certificates)
 ---
 ### Achievements
 - 📑 Attended International conference organized by Amity University Jaipur and presented our reasearch paper
