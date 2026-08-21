@@ -17,4 +17,4 @@
 ### Achievements
 - 📑 Attended International conference organized by Amity University Jaipur and presented our reasearch paper
 - 🎙️ International Speaker, spoke on Ted and on many notable stages
-- 
+- ✈️ Participated in UTP Immersion program, Malaysia 
